@@ -53,7 +53,3 @@ The project is divided in the following packages:
 
 
 
-
-## 💬 Resources
-
-- The main resource for building this project was finishing the Platzi Course "Java SE: SQL y Base de Datos" and using what I learned with my own database and table. Course LinK: https://platzi.com/cursos/java-sql/
